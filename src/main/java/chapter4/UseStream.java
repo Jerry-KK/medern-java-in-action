@@ -9,7 +9,7 @@ import static java.util.stream.Collectors.toList;
  * @author lethe
  * @date 2021/7/15 23:24
  */
-public class useStream {
+public class UseStream {
     public static void main(String[] args) {
         List<String> threeHeightCaloricDishNames = Constant.menu
                 //从menu（菜肴列表）获得流
